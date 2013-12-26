@@ -1,0 +1,106 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:padding="1dp"
+    tools:context=".SubjectsListActivity" >
+
+    <TextView
+        android:id="@+id/subjectName"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:text="TextView" />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/modul1"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/modul2"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+	
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+    
+    <TextView
+        android:id="@+id/modul3"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+    
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/modul4"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+    
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/kursach"
+        android:layout_width="65dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+    
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/zachet"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+    
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="fill_parent"
+        android:background="#d2d1d6" />
+
+    <TextView
+        android:id="@+id/ekzamen"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginRight="5dp"
+        android:gravity="center_horizontal"
+        android:text="TextView" />
+
+</LinearLayout>
